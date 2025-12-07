@@ -1,0 +1,5 @@
+outs:
+- md5: a25112668e943cadf61ee0c0fafa3e2a
+  size: 3024114
+  hash: md5
+  path: defects_cleaned.csv
